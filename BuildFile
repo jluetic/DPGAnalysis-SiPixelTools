@@ -33,7 +33,7 @@
 <use name=boost>
 <use name=root>
 <export>
-   <lib name=DPGAnalysisSiPixelTools>
+   <lib name=DPGAnalysis-SiPixelTools>
    <use name=FWCore/Framework>
    <use name=FWCore/PluginManager>
    <use name=FWCore/ParameterSet>
